@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Come a little closer, let the shadows fall
+> I want to read the secret on your soul
+> We have nothing but the moonlight on the floor
+> And I could stay right here forevermore
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
