@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/breathe-you-in-deep/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Breathe You In Deep](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/breathe-you-in-deep/) |
+| **Get License** | [Official Music Licensing for Breathe You In Deep](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/breathe-you-in-deep/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2998)
 
 ---
 
